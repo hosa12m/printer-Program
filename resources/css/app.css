@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+a:is(:link , : active , :visited).active{
+    //color:white ; 
+    background-color:gray ;
+     border-radius: 18px;
+    border: 2px solid #73AD21; 
+}
