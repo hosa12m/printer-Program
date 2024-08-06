@@ -25,6 +25,16 @@
         <img src="/images/cd3fcvvo.png" alt="paintingImage" class=" lg:w-[1280px]" />    
    </div>
 </div>
+
+<div class="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
+  <div class="md:flex">
+    <div class="md:shrink-0">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d116025.73819449275!2d46.653409!3d24.664863!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f03890d489399%3A0xba974d1c98e79fd5!2z2KfZhNix2YrYp9i2INin2YTYs9i52YjYr9mK2Kk!5e0!3m2!1sar!2sus!4v1713975223031!5m2!1sar!2sus"
+     width="600" height="450" style="border:0;" allowfullscreen=""
+     loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+  </div>
+</div>
 <div class="mt-10">
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d116025.73819449275!2d46.653409!3d24.664863!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f03890d489399%3A0xba974d1c98e79fd5!2z2KfZhNix2YrYp9i2INin2YTYs9i52YjYr9mK2Kk!5e0!3m2!1sar!2sus!4v1713975223031!5m2!1sar!2sus"
      width="600" height="450" style="border:0;" allowfullscreen=""

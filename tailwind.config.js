@@ -6,7 +6,11 @@ export default {
     "./resources/**/*.vue",
   ],
   theme: {
-    extend: {},
+    extend: {
+      borderRadius:{
+        extraLarge : '4rem'
+      }
+    },
   },
   plugins: [],
 }

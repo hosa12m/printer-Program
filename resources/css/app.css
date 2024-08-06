@@ -9,3 +9,17 @@ a:is(:link , : active , :visited).active{
      border-radius: 18px;
     border: 2px solid #73AD21; 
 }
+
+.custom-shape-divider-top-1722907951 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+
+.footer {
+    background-color: hsl(0, 0%, 1%);
+  }

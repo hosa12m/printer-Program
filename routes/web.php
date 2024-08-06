@@ -15,6 +15,8 @@ use App\Http\Controllers\HoldContoller ;
 use App\Http\Controllers\TeshertContoller ;
 use App\Http\Controllers\BrashorContoller ;
 
+use App\http\Controller\TestController ; 
+
 
 
 
@@ -22,6 +24,8 @@ use App\Http\Controllers\BrashorContoller ;
 //     return view('index');
 // });
 Route::get('/', [ImageController::class , 'index'])->name('home') ; 
+
+Route::get('/test', [App\Http\Controllers\TestController::class , 'show'])->name('test') ; 
 //Route::get('/{post:slug}', [ImageController::class, 'show'])->name('view') ;
 
 
